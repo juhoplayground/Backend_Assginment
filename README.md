@@ -44,8 +44,8 @@ REDIS_DB='{your db name}'
  - 설치, 설정이 간단<br/>
  - 다양한 명령어와 관리도구<br/>
 <br/>
-# 테스트 코드 실행하는 방법
+# 테스트 코드 실행하는 방법<br/>
 `pytest -v test.py`를 터미널에서 입력하여 테스트 코드를 실행하고 결과 확인 가능
 <br/>
-# Swagger 확인하는 방법
+# Swagger 확인하는 방법<br/>
 `http://localhost:8000/docs`에서 Swagger 문서 확인 가능
